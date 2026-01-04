@@ -1,6 +1,6 @@
 # Simple Amazon Clone
 
-This is a simple front-end clone of the Amazon website created for my web development project. It recreates the look and feel of the Amazon homepage using only standard web technologies.
+This is a simple front-end clone of the Amazon website created for my web development PEP project.
 
 ## Technologies Used
 * **HTML5:** For the structure of the page.
@@ -17,6 +17,3 @@ This is a simple front-end clone of the Amazon website created for my web develo
 1.  Download or clone this repository.
 2.  Open the folder.
 3.  Double-click `index.html` to open it in your browser.
-
-## Note
-This is a static website made for educational purposes only. It is not the real Amazon website and has no backend functionality.
