@@ -5,7 +5,6 @@ This is a simple front-end clone of the Amazon website created for my web develo
 ## Technologies Used
 * **HTML5:** For the structure of the page.
 * **CSS3:** For styling and layout (Flexbox/Grid).
-* **JavaScript:** For simple interactivity (Add to Cart button).
 
 ## Features
 * Responsive Navigation Bar.
