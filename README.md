@@ -9,7 +9,6 @@ This is a simple front-end clone of the Amazon website created for my web develo
 ## Features
 * Responsive Navigation Bar.
 * Product grid layout.
-* "Add to Cart" functionality (updates cart counter and shows an alert).
 * Mobile-friendly design (responsive).
 
 ## How to Run
